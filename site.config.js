@@ -8,7 +8,7 @@ const CONFIG = {
     email: "official.jumee@gmail.com",
     linkedin: "주미-서-114b16291",
     github: "SeoJumee",
-    instagram: "ju.mee__",
+    instagram: "juuuuuum_",
   },
   projects: [
     {
