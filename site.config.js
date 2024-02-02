@@ -16,6 +16,10 @@ const CONFIG = {
       href: "https://gauth.co.kr/",
     },
     {
+      name: `도토리`,
+      href: "https://www.dotori-gsm.com/",
+    },
+    {
       name: `G무위키`,
       href: "https://www.gmuwiki.com/",
     },
