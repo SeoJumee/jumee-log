@@ -6,7 +6,6 @@ const CONFIG = {
     role: "frontend developer",
     bio: "쿨한 개발자가 되기 위한 여정 😎",
     email: "official.jumee@gmail.com",
-    linkedin: "주미-서-114b16291",
     github: "SeoJumee",
     instagram: "juuuuuum_",
   },
@@ -16,12 +15,12 @@ const CONFIG = {
       href: "https://gauth.co.kr/",
     },
     {
-      name: `도토리`,
-      href: "https://www.dotori-gsm.com/",
+      name: `Hi`,
+      href: "https://msg-hi.vercel.app/",
     },
     {
-      name: `G무위키`,
-      href: "https://www.gmuwiki.com/",
+      name: `도토리`,
+      href: "https://www.dotori-gsm.com/",
     },
   ],
   // blog setting (required)
