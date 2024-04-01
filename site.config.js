@@ -6,6 +6,7 @@ const CONFIG = {
     role: "frontend developer",
     bio: "쿨한 개발자가 되기 위한 여정 😎",
     email: "official.jumee@gmail.com",
+    linkedin: "주미-서-114b16291",
     github: "SeoJumee",
     instagram: "juuuuuum_",
   },
